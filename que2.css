@@ -1,0 +1,50 @@
+.imperio {
+    background-color: red;
+}
+
+.rebeldes{
+    background-color: blue;
+}
+
+#Vader{
+    font-size: 230%;
+ }
+
+ #Luke{
+    font-style: italic;
+ }
+
+ .centrado{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 30%;
+    border: 10px dashed red;
+ }
+
+ .imperiosoldados{
+    border: 10px dashed red;
+}
+ .apoyo {
+    text-align: center;
+ }
+
+ .imperio {
+    text-align: center;
+ }
+ 
+ .rebeldes {
+text-transform: uppercase;
+ }
+
+ .apoyo {
+    text-align: center;
+ }
+
+ .rebeldes {
+    text-align: center;
+ }
+
+ .naves {
+text-transform: uppercase;
+ }
